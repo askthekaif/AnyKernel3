@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Stock 5.10.209 by kAiF For Sky (Redmi 12 5G / Poco M6 Pro 5G)
+kernel.string=Stock 5.10.226 by kAiF For Sky (Redmi 12 5G / Poco M6 Pro 5G)
 do.devicecheck=0
 do.modules=0
 do.systemless=0
